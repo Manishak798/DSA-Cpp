@@ -4,7 +4,7 @@ int main()
 {
     int num = 1, i, sum = 0, diff, ap = 0;
     cout << "A.P. SERIES IS: ";
-    for (i = num; i <= 40;)
+    for (i = num; i <= 50;)
     {
         ap = i;
         cout << ap << " ";
