@@ -34,7 +34,7 @@ int main()
         cout << "DIVISION = " << number1 / number2;
         break;
     default:
-        cout << "OOPS!! Invalid-Input";
+        cout << "Invalid-Input";
         break;
     }
     return 0;
