@@ -5,15 +5,15 @@ int main()
     int t;
     cout << "enter testcases: ";
     cin >> t;
-    string s;
+    string str;
     while (t--)
     {
         cout << "enter string: ";
-        cin >> s;
+        cin >> str;
         int i = 0;
         while (i < 5)
         {
-            cout << s << endl;
+            cout << str << endl;
             i++;
         }
     }
