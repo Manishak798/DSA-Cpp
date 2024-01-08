@@ -4,7 +4,7 @@ int main()
 {
     int menu_index;
     int number1, number2;
-    cout << "Here's a mini calculator" << endl
+    cout << "Calculator" << endl
          << endl;
     cout << "ENTER THE VALUE OF NUMBER-1: ";
     cin >> number1;
