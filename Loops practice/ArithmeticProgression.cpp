@@ -16,7 +16,7 @@ int main()
          << "ENTER LAST TERMS FOR A.P. SERIES: ";
     cin >> nth_term;
     series = starting_term;
-    for (int i = 1; i < nth_term; i++)
+    for (int i = 0; i < nth_term; i++)
     {
         cout << series << endl;
         series = series + common_difference;
