@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//Dequeue Data Structure
 int main()
 {
     deque<int> dq(5);
