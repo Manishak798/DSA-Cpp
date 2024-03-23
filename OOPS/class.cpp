@@ -4,7 +4,7 @@ using namespace std;
 class myClass
 {
 public:
-    string s = "hello";
+    string s = "hello world";
 };
 int main()
 {
