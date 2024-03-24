@@ -24,6 +24,7 @@ int main()
         cout << it << " ";
     }
     cout << endl;
+    //swap
     // ls.swap(copy);swap does not work with diffrent container
 
     // cout << "Swap lstor elements : ";
