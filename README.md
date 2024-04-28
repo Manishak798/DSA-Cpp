@@ -31,5 +31,5 @@ This repository contains implementations of commonly used data structures and al
 - Dynamic Programming
 - Greedy Algorithms
 
-## Contributing 🤝🏻
+## Contributing 🤝🏻❤️
 Contributions are welcome! If you find any bugs or would like to add more data structures or algorithms, feel free to open an issue or submit a pull request. Please follow the contribution guidelines provided in the repository.
