@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    /* Pointers in CPP */
     int arr[5] = {1, 2, 3, 4, 5};
     int *ptr;
     ptr = new int[5]{1, 2, 3}; // memory allocated inside heap
