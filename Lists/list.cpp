@@ -35,7 +35,7 @@ int main()
     ls.clear();
     cout << endl;
     cout << "Clear list elements : ";
-    for (auto it : ls) // for each loop
+    for (auto it : ls) 
     {
         cout << it << " ";
     }
