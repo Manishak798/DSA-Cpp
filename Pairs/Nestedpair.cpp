@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+//pairs in cpp
 void printpairs(pair<int, pair<int, int>> p)
 {
     cout
