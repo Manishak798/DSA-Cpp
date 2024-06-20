@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//hash maps
 int main()
 {
     int size;
