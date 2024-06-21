@@ -1,4 +1,4 @@
-// declaration and initialization of array
+// declaration and initialization of 2D array
 #include <bits/stdc++.h>
 using namespace std;
 int main()
