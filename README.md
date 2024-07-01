@@ -1,4 +1,4 @@
-# DSA 📚 💻
+# DSA 📚💻
 
 Welcome to my Data Structures and Algorithms repository implemented in C++! Here you'll find various data structures and algorithms implemented in C++ for learning and reference purposes.
 
