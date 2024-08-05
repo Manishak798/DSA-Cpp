@@ -20,7 +20,7 @@ int main()
 }
 /*cessspecifire.cpp:18:19: error: 'int myClass::y' is private within this context
      cout << myObj.y;
-                   ^
+                   
 accessspecifire.cpp:6:13: note: declared private here
      int y = 10; // declared as inaccessible
-             ^~*/
+*/
