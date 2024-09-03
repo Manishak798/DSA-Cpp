@@ -15,7 +15,7 @@ This repository contains implementations of commonly used data structures and al
 - Hash Table
 - Graph
 
-## Algorithms 👩‍💻⭐ 
+## Algorithms 👩‍💻 ⭐ 
 - Sorting Algorithms
   - Bubble Sort
   - Selection Sort
