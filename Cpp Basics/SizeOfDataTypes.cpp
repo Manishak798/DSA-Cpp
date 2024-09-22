@@ -9,5 +9,5 @@ int main()
     cout << "SIZE OF CHARACTER : " << sizeof(char) << " byte." << endl;
     cout << "SIZE OF DOUBLE : " << sizeof(double) << " byte." << endl;
     cout << "SIZE OF LONG-LONG : " << sizeof(long long) << " byte." << endl;
-    return 0;
+    return 0; 
 }
