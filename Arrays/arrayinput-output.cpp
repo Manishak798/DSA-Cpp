@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    // int arry[6] = {0};
+     int arry[6] = {0};
     // float arry[6] = {0};
     string arry[6] = {" "}; // initilize it with space not 0
     cout << "enter elements ";
