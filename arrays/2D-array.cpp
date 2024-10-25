@@ -1,7 +1,7 @@
 // declaration and initialization of 2D array
 #include <bits/stdc++.h>
 using namespace std;
-int main()
+int main() 
 {
     int arr[5][5];
     for (int i = 0; i < 2; i++)
