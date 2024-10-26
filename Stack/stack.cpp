@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main()
+int main()     
 {
     stack<int> st[10];
     // st[0].push(1);
