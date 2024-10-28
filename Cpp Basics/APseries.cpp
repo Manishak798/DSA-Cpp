@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-//Ap Series
+
 using namespace std;
 int main()
 {
