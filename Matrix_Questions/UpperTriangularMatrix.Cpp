@@ -25,7 +25,6 @@ The matrix is :
 4 5 6
 7 8 9
 
-Setting zero in upper triangular matrix
 
 1 0 0
 4 5 0
