@@ -16,7 +16,6 @@ int main()
         cout << endl;
     }
 
-    // precomputing
     map<int, int> hash;
     for (int i = 0; i < size; i++)
     {
