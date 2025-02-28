@@ -50,6 +50,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | [0547-number-of-provinces](https://github.com/Manishak798/DSA-Cpp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/Manishak798/DSA-Cpp/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
 | ------- |
@@ -64,12 +65,14 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/Manishak798/DSA-Cpp/tree/master/1876-map-of-highest-peak) |
 ## Matrix
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/Manishak798/DSA-Cpp/tree/master/1876-map-of-highest-peak) |
 ## Dynamic Programming
 |  |
 | ------- |
