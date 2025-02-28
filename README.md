@@ -41,11 +41,13 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Manishak798/DSA-Cpp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Manishak798/DSA-Cpp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
@@ -54,6 +56,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Manishak798/DSA-Cpp/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
@@ -62,6 +65,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
@@ -69,6 +73,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
