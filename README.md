@@ -44,6 +44,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Manishak798/DSA-Cpp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Manishak798/DSA-Cpp/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,12 +53,14 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | [0547-number-of-provinces](https://github.com/Manishak798/DSA-Cpp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Manishak798/DSA-Cpp/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Manishak798/DSA-Cpp/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Manishak798/DSA-Cpp/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Manishak798/DSA-Cpp/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -69,6 +72,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Manishak798/DSA-Cpp/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Manishak798/DSA-Cpp/tree/master/1876-map-of-highest-peak) |
 ## Matrix
 |  |
@@ -77,6 +81,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Manishak798/DSA-Cpp/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Manishak798/DSA-Cpp/tree/master/1876-map-of-highest-peak) |
 ## Dynamic Programming
 |  |
