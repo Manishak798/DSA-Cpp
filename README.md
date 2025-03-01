@@ -48,6 +48,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Manishak798/DSA-Cpp/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Manishak798/DSA-Cpp/tree/master/0547-number-of-provinces) |
@@ -87,4 +88,12 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Manishak798/DSA-Cpp/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Manishak798/DSA-Cpp/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
