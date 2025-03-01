@@ -42,6 +42,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Manishak798/DSA-Cpp/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Manishak798/DSA-Cpp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Manishak798/DSA-Cpp/tree/master/1073-number-of-enclaves) |
@@ -50,6 +51,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | ------- |
 | [0127-word-ladder](https://github.com/Manishak798/DSA-Cpp/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Manishak798/DSA-Cpp/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Manishak798/DSA-Cpp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
@@ -60,6 +62,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Manishak798/DSA-Cpp/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Manishak798/DSA-Cpp/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Manishak798/DSA-Cpp/tree/master/1073-number-of-enclaves) |
 ## Graph
@@ -70,6 +73,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Manishak798/DSA-Cpp/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
@@ -79,6 +83,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Manishak798/DSA-Cpp/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Manishak798/DSA-Cpp/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
