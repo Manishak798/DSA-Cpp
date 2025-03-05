@@ -112,4 +112,12 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | ------- |
 | [0207-course-schedule](https://github.com/Manishak798/DSA-Cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Manishak798/DSA-Cpp/tree/master/0210-course-schedule-ii) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Manishak798/DSA-Cpp/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Manishak798/DSA-Cpp/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
