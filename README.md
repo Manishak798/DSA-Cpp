@@ -99,6 +99,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Manishak798/DSA-Cpp/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
@@ -125,4 +126,12 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Manishak798/DSA-Cpp/tree/master/0792-binary-search) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Manishak798/DSA-Cpp/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Manishak798/DSA-Cpp/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
