@@ -86,6 +86,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | [0792-binary-search](https://github.com/Manishak798/DSA-Cpp/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Manishak798/DSA-Cpp/tree/master/1073-number-of-enclaves) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manishak798/DSA-Cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1876-map-of-highest-peak](https://github.com/Manishak798/DSA-Cpp/tree/master/1876-map-of-highest-peak) |
 ## Matrix
 |  |
@@ -130,6 +131,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Manishak798/DSA-Cpp/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manishak798/DSA-Cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Math
 |  |
 | ------- |
