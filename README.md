@@ -86,6 +86,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | [0542-01-matrix](https://github.com/Manishak798/DSA-Cpp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Manishak798/DSA-Cpp/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Manishak798/DSA-Cpp/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Manishak798/DSA-Cpp/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Manishak798/DSA-Cpp/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Manishak798/DSA-Cpp/tree/master/1073-number-of-enclaves) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manishak798/DSA-Cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -139,6 +140,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Manishak798/DSA-Cpp/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Manishak798/DSA-Cpp/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manishak798/DSA-Cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Math
 |  |
