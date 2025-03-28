@@ -123,6 +123,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Manishak798/DSA-Cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Manishak798/DSA-Cpp/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Manishak798/DSA-Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Manishak798/DSA-Cpp/tree/master/0206-reverse-linked-list) |
@@ -170,6 +171,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Manishak798/DSA-Cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Manishak798/DSA-Cpp/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
