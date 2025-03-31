@@ -110,6 +110,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Manishak798/DSA-Cpp/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/Manishak798/DSA-Cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manishak798/DSA-Cpp/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
@@ -125,6 +126,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manishak798/DSA-Cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Manishak798/DSA-Cpp/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/Manishak798/DSA-Cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manishak798/DSA-Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Manishak798/DSA-Cpp/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Manishak798/DSA-Cpp/tree/master/0908-middle-of-the-linked-list) |
@@ -134,6 +136,7 @@ Contributions are welcome! If you find any bugs or would like to add more data s
 | [0015-3sum](https://github.com/Manishak798/DSA-Cpp/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Manishak798/DSA-Cpp/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Manishak798/DSA-Cpp/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/Manishak798/DSA-Cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manishak798/DSA-Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/Manishak798/DSA-Cpp/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Manishak798/DSA-Cpp/tree/master/0908-middle-of-the-linked-list) |
