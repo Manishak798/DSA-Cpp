@@ -29,7 +29,7 @@
 <pre>
 <strong>Input:</strong> nums = [3,2,1]
 <strong>Output:</strong> [1,2,3]
-</pre>
+</pre> 
 
 <p><strong class="example">Example 3:</strong></p>
 
