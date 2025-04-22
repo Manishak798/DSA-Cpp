@@ -7,7 +7,7 @@
 </ul>
 
 <p>Given two words, <code>beginWord</code> and <code>endWord</code>, and a dictionary <code>wordList</code>, return <em>the <strong>number of words</strong> in the <strong>shortest transformation sequence</strong> from</em> <code>beginWord</code> <em>to</em> <code>endWord</code><em>, or </em><code>0</code><em> if no such sequence exists.</em></p>
-
+ 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
